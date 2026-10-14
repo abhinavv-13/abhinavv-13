@@ -1,50 +1,58 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:E8272B,100:FFC400&height=240&section=header&text=JOYBOY&fontSize=80&fontColor=ffffff&animation=twinkling&fontAlignY=40" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=180&text=JOYBOY&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=50" width="100%" alt="Joyboy" />
 
-<div align="center">
+# Abhinav
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=FFC400&center=true&vCenter=true&width=700&lines=Gear+5+%3A+ON;The+drums+of+liberation+are+beating;Laughing+through+every+bug;IIT+Patna" />
+IIT Patna. I work with Python and TypeScript, mostly on multi-agent systems, backends and automation.
 
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=abhinavv-13&label=Poneglyph+reads&color=E8272B&style=for-the-badge" />
-
-</div>
+<img src="https://komarev.com/ghpvc/?username=abhinavv-13&label=profile+views&color=ffd24a&labelColor=1c1f26&style=flat-square" />
 
 ---
 
-### 🥁 About
-- 🎓 IIT Patna
-- 😂 Laugh first, fix later
-- ☀️ Sun God mode: always on
+## Stack
 
-### ⚔️ Arsenal
+**Languages**<br>
+<img src="https://img.shields.io/badge/Python-1c1f26?style=flat-square&logo=python&logoColor=ffd24a" />
+<img src="https://img.shields.io/badge/TypeScript-1c1f26?style=flat-square&logo=typescript&logoColor=ffd24a" />
+<img src="https://img.shields.io/badge/JavaScript-1c1f26?style=flat-square&logo=javascript&logoColor=ffd24a" />
+
+**Agents and LLMs**<br>
+<img src="https://img.shields.io/badge/CrewAI-1c1f26?style=flat-square" />
+<img src="https://img.shields.io/badge/LangGraph-1c1f26?style=flat-square" />
+<img src="https://img.shields.io/badge/LangChain-1c1f26?style=flat-square&logo=langchain&logoColor=ffd24a" />
+<img src="https://img.shields.io/badge/OpenAI-1c1f26?style=flat-square&logo=openai&logoColor=ffd24a" />
+<img src="https://img.shields.io/badge/Claude_API-1c1f26?style=flat-square&logo=anthropic&logoColor=ffd24a" />
+
+**Backend and data**<br>
+<img src="https://img.shields.io/badge/FastAPI-1c1f26?style=flat-square&logo=fastapi&logoColor=ffd24a" />
+<img src="https://img.shields.io/badge/Node.js-1c1f26?style=flat-square&logo=nodedotjs&logoColor=ffd24a" />
+<img src="https://img.shields.io/badge/Supabase-1c1f26?style=flat-square&logo=supabase&logoColor=ffd24a" />
+<img src="https://img.shields.io/badge/Firebase-1c1f26?style=flat-square&logo=firebase&logoColor=ffd24a" />
+
+**Frontend**<br>
+<img src="https://img.shields.io/badge/React-1c1f26?style=flat-square&logo=react&logoColor=ffd24a" />
+<img src="https://img.shields.io/badge/Next.js-1c1f26?style=flat-square&logo=nextdotjs&logoColor=ffd24a" />
+
+**Automation and APIs**<br>
+<img src="https://img.shields.io/badge/n8n-1c1f26?style=flat-square&logo=n8n&logoColor=ffd24a" />
+<img src="https://img.shields.io/badge/Twilio-1c1f26?style=flat-square&logo=twilio&logoColor=ffd24a" />
+
+---
+
+## GitHub
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,nextjs,react,nodejs,firebase,git,github&theme=dark" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=abhinavv-13&show_icons=true&count_private=true&include_all_commits=true&theme=transparent&title_color=ffd24a&icon_color=ffd24a&text_color=ffffff&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinavv-13&layout=compact&theme=transparent&title_color=ffd24a&text_color=ffffff&hide_border=true" />
 </p>
 
-### 📊 Stats
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=abhinavv-13&show_icons=true&count_private=true&include_all_commits=true&theme=transparent&title_color=FFC400&icon_color=E8272B&text_color=ffffff&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinavv-13&layout=compact&theme=transparent&title_color=FFC400&text_color=ffffff&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=abhinavv-13&theme=dark&background=00000000&ring=ffd24a&fire=ffd24a&currStreakLabel=ffd24a&currStreakNum=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=9a9a9a&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=abhinavv-13&theme=dark&background=00000000&ring=E8272B&fire=FFC400&currStreakLabel=FFC400&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=FFFFFF&dates=AAAAAA&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhinavv-13&bg_color=0d1117&color=ffd24a&line=ffffff&point=ffd24a&area=true&area_color=ffd24a&hide_border=true" width="100%" />
 </p>
 
-### 🏆 Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=abhinavv-13&theme=onedark&no-frame=true&no-bg=true&column=7&margin-w=10" />
-</p>
-
-### 📈 Activity
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhinavv-13&bg_color=000000&color=FFC400&line=E8272B&point=FFFFFF&area=true&area_color=E8272B&hide_border=true" width="100%" />
-</p>
-
-### 🐍 Contribution Snake
 <p align="center">
   <img src="https://raw.githubusercontent.com/abhinavv-13/abhinavv-13/output/snake.svg" width="100%" />
 </p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:E8272B,100:FFC400&height=120&section=footer" width="100%" />
